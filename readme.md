@@ -268,6 +268,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+- [ListView-Snapshot](https://github.com/abhijith0505/ListView-Snapshot-Demo) - An android library that allows you to take snapshot of your entire listView.
 
 ## Resources
 
